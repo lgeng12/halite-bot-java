@@ -1,0 +1,9 @@
+*.class*
+*.zip*
+*.exe*
+*.log*
+*.bat*
+*.sh*
+
+### IntelliJ IDEA ###
+*.idea*
