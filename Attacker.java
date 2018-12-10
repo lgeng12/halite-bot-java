@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.ArrayList;
 
 public class Attacker {
-
+	// tests immediate attacks
     public static void main(final String[] args) {
         final Networking networking = new Networking();
         final GameMap gameMap = networking.initialize("Attacker");
